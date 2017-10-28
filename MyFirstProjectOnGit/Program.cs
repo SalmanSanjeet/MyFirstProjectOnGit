@@ -10,6 +10,7 @@ namespace MyFirstProjectOnGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My first git project bro");
         }
     }
 }
